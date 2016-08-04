@@ -5,13 +5,12 @@ Este projeto foi escrito com Eclipse usando Maven, hibernate, JSF, PrimeFaces de
 ele quando comecei a aprender Java para WEB com as aulas do prof Sérgio(https://www.youtube.com/channel/UCJdtabTp9TXaHxdYrAa2j0A),
 e pretendo ir melhorando ele com passar do tempo e o adequando com funções fiscais.
 
-Filipe Ferreira - https://www.facebook.com/filipe.ferreira.5030927
-
-
 
 
 
 Outros links úteis:
+
+Filipe Ferreira - https://www.facebook.com/filipe.ferreira.5030927
 
 meu site - http://www.ciadainformatica.com/
 
