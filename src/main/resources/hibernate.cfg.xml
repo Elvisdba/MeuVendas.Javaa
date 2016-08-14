@@ -31,16 +31,16 @@
         <!-- cria tabelas do banco de dados-->
         <property name="hbm2ddl.auto">validate</property>
 		
-		<mapping class="com.ciadainformatica.drogaria.domain.Cidade"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.Cliente"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.Estado"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.Fabricante"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.Funcionario"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.ItemVenda"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.Pessoa"/>
-        <mapping class="com.ciadainformatica.drogaria.domain.Produto"/>
-		<mapping class="com.ciadainformatica.drogaria.domain.Usuario"/>
-		<mapping class="com.ciadainformatica.drogaria.domain.Venda"/>
+		<mapping class="com.ciadainformatica.vendas.domain.Cidade"/>
+        <mapping class="com.ciadainformatica.vendas.domain.Cliente"/>
+        <mapping class="com.ciadainformatica.vendas.domain.Estado"/>
+        <mapping class="com.ciadainformatica.vendas.domain.Fabricante"/>
+        <mapping class="com.ciadainformatica.vendas.domain.Funcionario"/>
+        <mapping class="com.ciadainformatica.vendas.domain.ItemVenda"/>
+        <mapping class="com.ciadainformatica.vendas.domain.Pessoa"/>
+        <mapping class="com.ciadainformatica.vendas.domain.Produto"/>
+		<mapping class="com.ciadainformatica.vendas.domain.Usuario"/>
+		<mapping class="com.ciadainformatica.vendas.domain.Venda"/>
     </session-factory>
 
 </hibernate-configuration>

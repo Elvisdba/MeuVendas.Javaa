@@ -4,7 +4,7 @@
  
 	<!-- Definição do PhaseListener da Autenticação -->
 	<lifecycle>
-		<phase-listener>com.ciadainformatica.drogaria.util.AutenticacaoListener</phase-listener>
+		<phase-listener>com.ciadainformatica.vendas.util.AutenticacaoListener</phase-listener>
 	</lifecycle>
 	
 	
